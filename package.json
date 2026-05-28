@@ -4,7 +4,8 @@
   "description": "",
   "main": "emailVerifier.js",
   "scripts": {
-    "test": "jest"
+    "start": "node server.js",
+    "test": "node tests.js"
   },
   "keywords": [],
   "author": "",
